@@ -1,0 +1,12 @@
+body {
+  background-color: crimson;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+body h1 {
+  color: #1c1491;
+}
+
